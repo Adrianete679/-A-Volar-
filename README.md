@@ -4,3 +4,10 @@ Este proyecto consiste en programar un dron de la marca "TELLO" para que haga un
 ## Componentes del dron
 1. Hélices 2. Motores 3. Indicador de estado de la aeronave 4. Cámara 5. Botón de encendido 6. Antenas 7. Sistema de posicionamiento visual
 8. Batería de Vuelo 9. Puerto Micro USB 10. Protectores para las hélices
+## Cual es la normativa europea de vuelo
+
+## ¿Como conectarse al dron?
+
+## Programa con DroneBlocks
+
+## Aplicaciones de la Drónica
