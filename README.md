@@ -7,8 +7,10 @@ Este proyecto consiste en programar un dron de la marca "TELLO" para que haga un
 3. Tiene una camara para poder ver lo que ve el dron y asi saber donde está o que es lo que pasa por ahí.
 4. En el lado derecho tiene un botón para encender y apagar.
 5.  
-6. Antenas 7. Sistema de posicionamiento visual
-8. Batería de Vuelo 9. Puerto Micro USB 10. Protectores para las hélices
+6. Antenas
+7. Sistema de posicionamiento visual
+8. Batería de Vuelo
+9. Puerto Micro USB 10. Protectores para las hélices
 ## Cual es la normativa europea de vuelo
 Para pilotar un dron sin licencia, se debe cumplir con una serie de características:
 1. Masa máxima al despegue de menos de 250 gramos.
@@ -17,12 +19,12 @@ Para pilotar un dron sin licencia, se debe cumplir con una serie de característ
 
 Además:
 
-5. No se puede volar en espacios naturales protegidos, Reservas de Biosfera o zonas de conservación de fauna.
-6. No se puede volar a un radio de 8 Km de aeródromos, aeropuertos, espacios aéreos controlados ni edificios prohibidos.
-7. Los que incluyen cámara han de respetar la Ley de Protección de datos y el derecho al honor e intimidad de las personas.
-8. El dron debe estar siempre controlado por ti y a tu vista.
-9. Lo volarás en condiciones meteorológicas aptas.
-10.  Por la noche, no debe superar los 50 metros de altura.
+4. No se puede volar en espacios naturales protegidos, Reservas de Biosfera o zonas de conservación de fauna.
+5. No se puede volar a un radio de 8 Km de aeródromos, aeropuertos, espacios aéreos controlados ni edificios prohibidos.
+6. Los que incluyen cámara han de respetar la Ley de Protección de datos y el derecho al honor e intimidad de las personas.
+7. El dron debe estar siempre controlado por ti y a tu vista.
+8. Lo volarás en condiciones meteorológicas aptas.
+9.  Por la noche, no debe superar los 50 metros de altura.
 ## ¿Como conectarse al dron?
 
 ## Programa con DroneBlocks
