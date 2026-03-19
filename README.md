@@ -25,5 +25,6 @@ Buscar por google
 
 ## Programa DroneBlocks
 ![image alt](https://github.com/Adrianete679/-A-Volar-/blob/5855823e1a1bb9fb7311e1d0981bbb138b83b5e5/Empieza%20a%20izquierda.PNG))
+
 Este programa lo que hace es dar una vuelta a través de dos columnas haciendo el símbolo del infinito. 
 Para hacerlo, hemos ido probando para ver cual era el punto "x", el punto "y" y el punto "z". Después de hacer todo esto, hamos ido probando para comprobar varios puntos clave. Después de haber calculado los el primer punto, vamos a por el segundo. Una vez ya calculado también este punto, ya podemos ir haciendo los siguientes puntos sin necesidad de ir haciendo pruebas.
