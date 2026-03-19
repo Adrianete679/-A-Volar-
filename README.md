@@ -1,4 +1,4 @@
-# -AVolar-
+# -A Volar-
 ## ¿En que consiste el proyecto?
 Este proyecto consiste en programar un dron de la marca "TELLO" para que haga una especie de circuito pero dentro del instituto, tiene que hacer un simbolo de infinito al través de dos columnas. Este proyecto se hace en grupo, aunque cada uno programa lo que debe de hacer el robot, que cada grupo tiene uno distinto, ya que cada uno empezará mirando para un lugar distinto.
 ## Descripción del dron DJI TELLO
@@ -10,18 +10,58 @@ Este proyecto consiste en programar un dron de la marca "TELLO" para que haga un
 6. Antenas 7. Sistema de posicionamiento visual
 8. Batería de Vuelo 9. Puerto Micro USB 10. Protectores para las hélices
 ## Cual es la normativa europea de vuelo
+Para pilotar un dron sin licencia, se debe cumplir con una serie de características:
+1. Masa máxima al despegue de menos de 250 gramos.
+2. Velocidad máxima en un vuelo horizontal de 19 metros por segundo.
+3. Altura sobre el terreno de un máximo 120 metros.
 
+Además:
+
+5. No se puede volar en espacios naturales protegidos, Reservas de Biosfera o zonas de conservación de fauna.
+6. No se puede volar a un radio de 8 Km de aeródromos, aeropuertos, espacios aéreos controlados ni edificios prohibidos.
+7. Los que incluyen cámara han de respetar la Ley de Protección de datos y el derecho al honor e intimidad de las personas.
+8. El dron debe estar siempre controlado por ti y a tu vista.
+9. Lo volarás en condiciones meteorológicas aptas.
+10.  Por la noche, no debe superar los 50 metros de altura.
 ## ¿Como conectarse al dron?
 
 ## Programa con DroneBlocks
 
 ## Aplicaciones de la Drónica
-Buscar por google
-[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+La drónica es el uso de drones para hacer diferentes trabajos. Los drones sirven para muchas cosas importantes:
 
-[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+1. Agricultura
+Se usan para ayudar a los agricultores:
+Ver cómo están los cultivos desde el aire
+Detectar problemas (plagas, falta de agua)
+Echar productos como fertilizantes
+Esto ahorra tiempo y dinero y hace el trabajo más preciso
 
-[![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
+2. Vigilancia y seguridad
+Vigilar ciudades, eventos o fronteras
+Controlar el tráfico
+Detectar incendios o actividades ilegales
+Permiten ver grandes zonas sin necesidad de muchas personas
+
+3. Búsqueda y rescate
+Buscar personas perdidas
+Ayudar en incendios o catástrofes
+Usar cámaras térmicas para ver en la oscuridad
+Son muy útiles porque llegan rápido y a lugares difíciles
+
+4. Cine y fotografía
+Grabar películas, deportes o paisajes
+Hacer fotos aéreas
+Permiten imágenes que antes eran muy difíciles o caras de conseguir
+
+5. Construcción e inspección
+Revisar edificios, puentes o carreteras
+Controlar obras
+Evitan riesgos porque no hace falta que una persona suba a sitios peligrosos
+
+6. Transporte y entregas
+Llevar paquetes a lugares difíciles
+Usarse en ciudades del futuro.
 
 ## Programa DroneBlocks
 ![image alt](https://github.com/Adrianete679/-A-Volar-/blob/5855823e1a1bb9fb7311e1d0981bbb138b83b5e5/Empieza%20a%20izquierda.PNG))
