@@ -26,42 +26,42 @@ Además:
 8. Lo volarás en condiciones meteorológicas aptas.
 9.  Por la noche, no debe superar los 50 metros de altura.
 ## ¿Como conectarse al dron?
-
+Para conectarte al dron tienes que conectare a él a través de wifi. Osea tu te metes donde se conecta el wifi y ahí tienes que buscar su "matrícula/nombre" y le das a conectarte.
 ## Programa con DroneBlocks
 
 ## Aplicaciones de la Drónica
 La drónica es el uso de drones para hacer diferentes trabajos. Los drones sirven para muchas cosas importantes:
 
-1. Agricultura
+#### 1. Agricultura
 Se usan para ayudar a los agricultores:
 Ver cómo están los cultivos desde el aire
 Detectar problemas (plagas, falta de agua)
 Echar productos como fertilizantes
 Esto ahorra tiempo y dinero y hace el trabajo más preciso
 
-2. Vigilancia y seguridad
+#### 2. Vigilancia y seguridad
 Vigilar ciudades, eventos o fronteras
 Controlar el tráfico
 Detectar incendios o actividades ilegales
 Permiten ver grandes zonas sin necesidad de muchas personas
 
-3. Búsqueda y rescate
+#### 3. Búsqueda y rescate
 Buscar personas perdidas
 Ayudar en incendios o catástrofes
 Usar cámaras térmicas para ver en la oscuridad
 Son muy útiles porque llegan rápido y a lugares difíciles
 
-4. Cine y fotografía
+#### 4. Cine y fotografía
 Grabar películas, deportes o paisajes
 Hacer fotos aéreas
 Permiten imágenes que antes eran muy difíciles o caras de conseguir
 
-5. Construcción e inspección
+#### 5. Construcción e inspección
 Revisar edificios, puentes o carreteras
 Controlar obras
 Evitan riesgos porque no hace falta que una persona suba a sitios peligrosos
 
-6. Transporte y entregas
+#### 6. Transporte y entregas
 Llevar paquetes a lugares difíciles
 Usarse en ciudades del futuro.
 
