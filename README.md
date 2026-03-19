@@ -24,6 +24,6 @@ Buscar por google
 [![](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DEL_VIDEO)
 
 ## Programa DroneBlocks
-![image alt]( Aquí escriben el permalink de la imagen )
+![image alt](https://github.com/Adrianete679/-A-Volar-/blob/5855823e1a1bb9fb7311e1d0981bbb138b83b5e5/Empieza%20a%20izquierda.PNG))
 
 
